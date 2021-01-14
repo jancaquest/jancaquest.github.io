@@ -21,7 +21,7 @@
 title: Janca's Quest
 email: jancaquest@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Well well well...
+  The quest of a man who really should have bought his last name's domain.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "janca.ro" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
