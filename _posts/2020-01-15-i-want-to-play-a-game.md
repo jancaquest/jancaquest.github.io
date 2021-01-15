@@ -9,7 +9,7 @@ permalink: i-want-to-play-a-game
 
 Hello, Janca.
 
-For a long time you've taken advantage of your friends, drank their coffee and bummed cigarettes off them. Day after day you've stretched the limits of their patience and self control, but today you will start paying them back.
+For a long time you've taken advantage of your friends, drank their coffee and bummed cigarettes off them. Day after day you've stretched the limits of their patience and self control; it is time that you too learn those limits.
 
 I want to play a game.
 
