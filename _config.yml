@@ -27,6 +27,9 @@ url: "janca.ro" # the base hostname & protocol for your site, e.g. http://exampl
 twitter_username:
 github_username: jancaquest
 
+navbar:
+  - about
+
 # Build settings
 theme: minima
 plugins:
